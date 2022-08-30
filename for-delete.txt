@@ -1,3 +1,7 @@
 hello3
+<<<<<<< HEAD
 Добавленна новая строка
 добавил строку для ветки bugfix
+=======
+Added new line for new branch new api branch.
+>>>>>>> new-api
